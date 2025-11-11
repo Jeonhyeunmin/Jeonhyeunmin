@@ -66,7 +66,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://instagram.com/hy_.min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hy_.min" height="30" width="40" /></a>
+<a href="https://instagram.com/hy__.min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hy_.min" height="30" width="40" /></a>
 </p>
 
 ---
